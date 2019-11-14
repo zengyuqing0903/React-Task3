@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+*{  
+  padding: 0;
+  margin: 0;
+
+}
+.am-tabs-default-bar-underline {
+  border: 1px #3fcccb solid;
+}
+.am-tabs-default-bar-tab-active {
+  color: #3fcccb;
+}
+.am-search-input input[type="search"] {
+  width: 70%;
+}
+.am-search {
+  opacity: 0.9;
+}
